@@ -1,4 +1,8 @@
-Sphere-faceloss
+Sphere-faceloss  
+
+I changed the loss of the original lenet5 handwirtten Network:softmax loss.I use the Sphere-faceloss replace of it.
+
+I havenot finished my training,I only trained 260 steps as fllows,and tha acc on test data is growing up to 93.75%.It is very fast.
 
 
 step is  0 acc is  0.14453125
